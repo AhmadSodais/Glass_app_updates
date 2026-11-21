@@ -29,6 +29,21 @@
         }
       ],
       "updatedAt": "2026-11-21T17:24:28.144592"
+    },
+    "1.0.0+6": {
+      "title": "checking",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 6,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "checking"
+        }
+      ],
+      "updatedAt": "2026-11-21T20:37:17.224697"
     }
   }
 }
