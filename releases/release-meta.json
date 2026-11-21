@@ -1,34 +1,3 @@
 {
-  "releases": {
-    "1.0.0+2": {
-      "title": "برسی",
-      "notes": "",
-      "version": "1.0.0",
-      "build": 2,
-      "isRollback": false,
-      "sourceBuild": null,
-      "changes": [
-        {
-          "type": "feat",
-          "message": "برسی"
-        }
-      ],
-      "updatedAt": "2026-11-21T14:25:39.187008"
-    },
-    "1.0.0+3": {
-      "title": "New update",
-      "notes": "",
-      "version": "1.0.0",
-      "build": 3,
-      "isRollback": false,
-      "sourceBuild": null,
-      "changes": [
-        {
-          "type": "feat",
-          "message": "New update"
-        }
-      ],
-      "updatedAt": "2026-11-21T16:13:18.222354"
-    }
-  }
+  "releases": {}
 }
