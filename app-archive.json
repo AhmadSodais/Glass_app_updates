@@ -1,5 +1,21 @@
 {
   "appName": "Hadid",
   "description": "Hadid Glass Windows desktop in-app updates.",
-  "items": []
+  "items": [
+    {
+      "version": "1.0.0",
+      "fullVersion": "1.0.0+4",
+      "shortVersion": 4,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "fix problem"
+        }
+      ],
+      "date": "2026-11-21",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Glass_app_updates/main/releases/1.0.0+4-windows",
+      "platform": "windows"
+    }
+  ]
 }

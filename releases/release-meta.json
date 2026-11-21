@@ -1,3 +1,19 @@
 {
-  "releases": {}
+  "releases": {
+    "1.0.0+4": {
+      "title": "fix problem",
+      "notes": "",
+      "version": "1.0.0",
+      "build": 4,
+      "isRollback": false,
+      "sourceBuild": null,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "fix problem"
+        }
+      ],
+      "updatedAt": "2026-11-21T17:08:48.995939"
+    }
+  }
 }
