@@ -4,6 +4,21 @@
   "items": [
     {
       "version": "1.0.0",
+      "fullVersion": "1.0.0+3",
+      "shortVersion": 3,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "New update"
+        }
+      ],
+      "date": "2026-11-21",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/AhmadSodais/Glass_app_updates/main/releases/1.0.0+3-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
       "fullVersion": "1.0.0+2",
       "shortVersion": 2,
       "changes": [
